@@ -1,5 +1,9 @@
-"""
-High School Management System API
+# Get the specific activity# Get the specific activity"""
+
+
+    # ...existing code...    activity = activities[activity_name]
+
+    // ...existing code...    activity = activities[activity_name]High School Management System API
 
 A super simple FastAPI application that allows students to view and sign up
 for extracurricular activities at Mergington High School.
